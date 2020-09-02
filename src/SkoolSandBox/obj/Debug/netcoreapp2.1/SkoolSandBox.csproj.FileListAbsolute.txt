@@ -1,0 +1,14 @@
+D:\SkoolSandBox\src\SkoolSandBox\bin\Debug\netcoreapp2.1\SkoolSandBox.deps.json
+D:\SkoolSandBox\src\SkoolSandBox\bin\Debug\netcoreapp2.1\SkoolSandBox.runtimeconfig.json
+D:\SkoolSandBox\src\SkoolSandBox\bin\Debug\netcoreapp2.1\SkoolSandBox.runtimeconfig.dev.json
+D:\SkoolSandBox\src\SkoolSandBox\bin\Debug\netcoreapp2.1\SkoolSandBox.dll
+D:\SkoolSandBox\src\SkoolSandBox\bin\Debug\netcoreapp2.1\SkoolSandBox.pdb
+D:\SkoolSandBox\src\SkoolSandBox\obj\Debug\netcoreapp2.1\SkoolSandBox.csprojAssemblyReference.cache
+D:\SkoolSandBox\src\SkoolSandBox\obj\Debug\netcoreapp2.1\SkoolSandBox.csproj.CoreCompileInputs.cache
+D:\SkoolSandBox\src\SkoolSandBox\obj\Debug\netcoreapp2.1\SkoolSandBox.RazorAssemblyInfo.cache
+D:\SkoolSandBox\src\SkoolSandBox\obj\Debug\netcoreapp2.1\SkoolSandBox.RazorAssemblyInfo.cs
+D:\SkoolSandBox\src\SkoolSandBox\obj\Debug\netcoreapp2.1\SkoolSandBox.AssemblyInfoInputs.cache
+D:\SkoolSandBox\src\SkoolSandBox\obj\Debug\netcoreapp2.1\SkoolSandBox.AssemblyInfo.cs
+D:\SkoolSandBox\src\SkoolSandBox\obj\Debug\netcoreapp2.1\SkoolSandBox.RazorTargetAssemblyInfo.cache
+D:\SkoolSandBox\src\SkoolSandBox\obj\Debug\netcoreapp2.1\SkoolSandBox.dll
+D:\SkoolSandBox\src\SkoolSandBox\obj\Debug\netcoreapp2.1\SkoolSandBox.pdb

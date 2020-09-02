@@ -1,0 +1,14 @@
+D:\SkoolSandBox\src\SkoolSandBox\bin\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.deps.json
+D:\SkoolSandBox\src\SkoolSandBox\bin\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.runtimeconfig.json
+D:\SkoolSandBox\src\SkoolSandBox\bin\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.runtimeconfig.dev.json
+D:\SkoolSandBox\src\SkoolSandBox\bin\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.dll
+D:\SkoolSandBox\src\SkoolSandBox\bin\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.pdb
+D:\SkoolSandBox\src\SkoolSandBox\obj\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.csprojAssemblyReference.cache
+D:\SkoolSandBox\src\SkoolSandBox\obj\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.csproj.CoreCompileInputs.cache
+D:\SkoolSandBox\src\SkoolSandBox\obj\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.RazorAssemblyInfo.cache
+D:\SkoolSandBox\src\SkoolSandBox\obj\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.RazorAssemblyInfo.cs
+D:\SkoolSandBox\src\SkoolSandBox\obj\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.AssemblyInfoInputs.cache
+D:\SkoolSandBox\src\SkoolSandBox\obj\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.AssemblyInfo.cs
+D:\SkoolSandBox\src\SkoolSandBox\obj\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.RazorTargetAssemblyInfo.cache
+D:\SkoolSandBox\src\SkoolSandBox\obj\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.dll
+D:\SkoolSandBox\src\SkoolSandBox\obj\Release\netcoreapp2.1\rhel.7.2-x64\SkoolSandBox.pdb

@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SkoolSandBox\\test\\SkoolSandBox.Tests\\SkoolSandBox.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\SkoolSandBox\\src\\SkoolSandBox\\SkoolSandBox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SkoolSandBox\\src\\SkoolSandBox\\SkoolSandBox.csproj",
+        "projectName": "SkoolSandBox",
+        "projectPath": "D:\\SkoolSandBox\\src\\SkoolSandBox\\SkoolSandBox.csproj",
+        "packagesPath": "C:\\Users\\bhanu.chandra\\.nuget\\packages\\",
+        "outputPath": "D:\\SkoolSandBox\\src\\SkoolSandBox\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bhanu.chandra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.3.6, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.3.31.15, )"
+            },
+            "Amazon.Lambda.AspNetCoreServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\SkoolSandBox\\test\\SkoolSandBox.Tests\\SkoolSandBox.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SkoolSandBox\\test\\SkoolSandBox.Tests\\SkoolSandBox.Tests.csproj",
+        "projectName": "SkoolSandBox.Tests",
+        "projectPath": "D:\\SkoolSandBox\\test\\SkoolSandBox.Tests\\SkoolSandBox.Tests.csproj",
+        "packagesPath": "C:\\Users\\bhanu.chandra\\.nuget\\packages\\",
+        "outputPath": "D:\\SkoolSandBox\\test\\SkoolSandBox.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bhanu.chandra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\SkoolSandBox\\src\\SkoolSandBox\\SkoolSandBox.csproj": {
+                "projectPath": "D:\\SkoolSandBox\\src\\SkoolSandBox\\SkoolSandBox.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.3.6, )"
+            },
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Amazon.Lambda.TestUtilities": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
